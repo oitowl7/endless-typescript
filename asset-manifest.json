@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/endless-typescript/static/css/main.19ff7800.css",
-    "main.js": "/endless-typescript/static/js/main.091f5ff7.js",
+    "main.js": "/endless-typescript/static/js/main.378e9f4c.js",
     "static/js/787.398d8455.chunk.js": "/endless-typescript/static/js/787.398d8455.chunk.js",
     "static/media/couch_2x.jpg": "/endless-typescript/static/media/couch_2x.0db18f79ef0042a56edd.jpg",
     "static/media/logo_endless.svg": "/endless-typescript/static/media/logo_endless.8ec7e65fd7951a0c39573e89223c96c7.svg",
     "index.html": "/endless-typescript/index.html",
     "main.19ff7800.css.map": "/endless-typescript/static/css/main.19ff7800.css.map",
-    "main.091f5ff7.js.map": "/endless-typescript/static/js/main.091f5ff7.js.map",
+    "main.378e9f4c.js.map": "/endless-typescript/static/js/main.378e9f4c.js.map",
     "787.398d8455.chunk.js.map": "/endless-typescript/static/js/787.398d8455.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19ff7800.css",
-    "static/js/main.091f5ff7.js"
+    "static/js/main.378e9f4c.js"
   ]
 }

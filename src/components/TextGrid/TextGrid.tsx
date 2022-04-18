@@ -45,7 +45,8 @@ export const TextGrid = forwardRef<HTMLDivElement, Props>(
     const headerStyle = css`
       font-size: 48px;
       margin: auto;
-      margin-bottom: 10px;
+      margin-top: 20px;
+      margin-bottom: 20px;
       display: flex;
       justify-content: center;
     

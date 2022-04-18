@@ -5,8 +5,6 @@ import logo_endless from '../../assets/images/logo_endless.svg';
 import { css, } from '@emotion/react';
 import { breakpoints } from '../../styles/breakpoints';
 
-
-
 export interface Props extends HTMLAttributes<HTMLDivElement> {
   imageUrl?: string;
   linkUrl?: string;

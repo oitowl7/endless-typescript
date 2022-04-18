@@ -9,7 +9,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Header />
+      <Header linkUrl={`https://www.dictionary.com/browse/endless`} />
       <ImageBody />
       <TextGrid />
       <Footer />
